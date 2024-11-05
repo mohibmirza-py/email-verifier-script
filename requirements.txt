@@ -1,5 +1,4 @@
+streamlit
+pandas
 dnspython
 email-validator
-pandas
-streamlit
-watchdog
